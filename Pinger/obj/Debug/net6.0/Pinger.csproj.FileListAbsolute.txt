@@ -1,0 +1,15 @@
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\bin\Debug\net6.0\Pinger.exe
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\bin\Debug\net6.0\Pinger.deps.json
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\bin\Debug\net6.0\Pinger.runtimeconfig.json
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\bin\Debug\net6.0\Pinger.dll
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\bin\Debug\net6.0\Pinger.pdb
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\Pinger.csproj.AssemblyReference.cache
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\Pinger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\Pinger.AssemblyInfoInputs.cache
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\Pinger.AssemblyInfo.cs
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\Pinger.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\Pinger.dll
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\refint\Pinger.dll
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\Pinger.pdb
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\Pinger.genruntimeconfig.cache
+C:\Users\jonathan.meira\Repositories\Pinger\Pinger\obj\Debug\net6.0\ref\Pinger.dll
